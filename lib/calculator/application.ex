@@ -10,6 +10,7 @@ defmodule Calculator.Application do
     children = [
       # Starts a worker by calling: Calculator.Worker.start_link(arg)
       # {Calculator.Worker, arg}
+      Calculator.Server
     ]
 
     # See https://hexdocs.pm/elixir/Supervisor.html
