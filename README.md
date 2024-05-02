@@ -106,7 +106,7 @@ setup, can be modified if needed in the test itself.
 ## Documentation
 Documentation is generated with
 [ExDoc](https://github.com/elixir-lang/ex_doc) & can be found at
-`docs/` in both HTML & ePub.
+`doc/` in both HTML & ePub.
 
 Documentation from the code can be updated using the following line:
 ```shellsession
